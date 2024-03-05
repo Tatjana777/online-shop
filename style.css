@@ -1,0 +1,58 @@
+/*IMPORT FONT*/
+body {
+  font-family: "Sofia";
+  font-size: 18px;
+}
+h1 {
+  text-align: center;
+  color: rgb(139, 15, 67);
+  border: 5px solid rgb(184, 138, 184);
+  padding: 20px;
+  background: url(./images/zulian-firmansyah-W_mMinc50k8-unsplash.jpg);
+}
+header a {
+  color: blueviolet;
+  font-size: 60 px;
+  margin: 30xp;
+}
+.menu {
+  display: inline-block;
+  margin-left: 30%;
+  padding: 20px;
+}
+.menu a {
+  text-decoration: none;
+  border: 2px solid darkslateblue;
+  border-radius: 30px;
+  display: inline-block;
+  margin: 40px;
+  padding: 10px;
+}
+
+/*SECTION*/
+section {
+  background: url(./images/zulian-firmansyah-W_mMinc50k8-unsplash.jpg);
+}
+
+.Link1 {
+  color: darkred;
+}
+h2 {
+  color: rgb(139, 15, 67);
+  border: 5px solid rgb(184, 138, 184);
+  padding: 20px;
+}
+/*IMPORT CONTAINER*/
+
+.container {
+  position: absolute;
+  border: 5px dotted rgb(62, 62, 189);
+}
+.image {
+  width: 300px;
+  height: 300px;
+}
+.image-1 {
+  width: 405px;
+  height: 300px;
+}
